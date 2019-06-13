@@ -1,5 +1,9 @@
 # Sample code from an article "Rails Elasticsearch"
 
+<p align="center">
+	<img width="100%" src="public/images/rails-with-elasticsearch.jpg">
+</p>
+
 ## Requirements
 
 - `ruby 2.6.1`
