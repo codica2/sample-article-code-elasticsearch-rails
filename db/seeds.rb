@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 STATES = [
   {
     name: 'west virginia',
@@ -137,18 +139,6 @@ STATES = [
   },
   {
     name: 'united states virgin islands',
-    level: 'state'
-  },
-  {
-    name: 'commonwealth of the northern mariana islands',
-    level: 'state'
-  },
-  {
-    name: 'guam',
-    level: 'state'
-  },
-  {
-    name: 'maine',
     level: 'state'
   },
   {
