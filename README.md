@@ -25,3 +25,11 @@
 ```bash
 rake elasticsearch:reindex
 ```
+
+## Testing
+
+Before testing make sure `elasticsearch` is up and running
+
+```bash
+rspec
+```
