@@ -1,4 +1,4 @@
-# Rails with Elasticsearch
+# Sample code from an article "Rails Elasticsearch"
 
 ## Requirements
 
@@ -10,8 +10,8 @@
 ## Getting started
 
 ```shell
- git clone git@github.com:codica2/elasticsearch-rails.git
- cd elasticsearch-rails
+ git clone git@github.com:codica2/sample-article-code-elasticsearch-rails.git
+ cd sample-article-code-elasticsearch-rails
 ```
 
 ## Install the app's dependencies:
